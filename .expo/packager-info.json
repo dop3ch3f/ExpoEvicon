@@ -1,8 +1,8 @@
 {
   "expoServerPort": 19000,
-  "packagerPort": 19001,
-  "packagerPid": 9012,
-  "expoServerNgrokUrl": "https://45-jvr.dop3ch3f.expoevicon.exp.direct",
-  "packagerNgrokUrl": "https://packager.45-jvr.dop3ch3f.expoevicon.exp.direct",
-  "ngrokPid": 9025
+  "packagerPort": 19002,
+  "packagerPid": 1599,
+  "expoServerNgrokUrl": "https://5t-h9w.dop3ch3f.expoevicon.exp.direct",
+  "packagerNgrokUrl": "https://packager.5t-h9w.dop3ch3f.expoevicon.exp.direct",
+  "ngrokPid": 1611
 }
